@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is a tool used to take repositories that other people have created on github and create a version of them on your own github so that you can edit and utilize them without affecting the master branch. This can be done by copying the http of the repository on github and then opening command line and typing in "git clone url" 

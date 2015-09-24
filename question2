@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Some popular repositories get forked by many different users which are then stored into the users github as the orgin however this is slightly missleading as they are not the actual orgin of the repository. Therefore, the orginial repositiory that was forked from is called upstream indicating that it is the original repository on github - not just your account. 
