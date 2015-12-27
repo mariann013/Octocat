@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+Explain what a branch is, in your own words:
+
+A branch is a version of the project which can be created from any point that exists in the project and can then be worked on as a seperate entity
+without affecting the master of the projects and then can be merged back into the master branch. It allows teams to work on multiple features of one 
+projects simulataniously.
