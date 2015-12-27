@@ -1,1 +1,4 @@
-Explain what git clone does, in your own words
+Explain what git clone does, in your own words:
+
+A git clone is a local version of a github repository which can be worked on locally and then pushed up to the github repository for others to collaberate on or view.
+Once a git clone is created locally only those with access to the computer will be able to access any changes made to the repository.
