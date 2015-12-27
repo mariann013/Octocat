@@ -1,4 +1,4 @@
-#Explain what the upstream remote is usually used for, in your own words:
+Explain what the upstream remote is usually used for, in your own words:
 
 An upstream remote is usually used when a fork of a repository has been made and the user would like to commit the changes that they have made to the original 'main'
 repository. It is extremely helpful in situations such as Makers Academy where students can fork a repository, and then push their work upstream to the Makers Academy 
